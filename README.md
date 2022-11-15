@@ -6,7 +6,7 @@ Spring Boot 수강신청 웹 사이트 토이 프로젝트
 
 ### Main Page
 
-![Untitled](README%202558392c608444f8997a00ded906f4ee/Untitled.png)
+![Untitled](README/Untitled.png)
 
 ## ERD
 
