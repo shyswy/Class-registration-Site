@@ -93,13 +93,13 @@ update user set aaaa=1 where user.user_id=1
 
 ### UI
 
-**Home**
+**홈**
 
 ![Untitled](README/Untitled%201.png)
 
 여러가지 기능을 모아 놓은 Home.html 입니다. 각 버튼을 누를 시, 해당 작업을 수행하는 Controller에 매핑 후, 필요하다면 정보를 처리해준 뒤, 다시 적절한 프론트 페이지(html)을 리턴 해줍니다. 맨 아래 관리자 페이지의 경우, 관리자 유저만이 클릭하여 접근 가능합니다.
 
-**Login**
+****
 
 ![Untitled](README/Untitled%202.png)
 
