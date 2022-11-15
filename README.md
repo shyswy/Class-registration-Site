@@ -14,13 +14,13 @@ Spring Boot 수강신청 웹 사이트 토이 프로젝트
 
 ### How to Build
 
-** 1. git clone **
+### 1. git clone 
 
 ```
 https://github.com/shyswy/toyproject.git
 ```
 
-** 2. Modify application-db.yml (db setting) **
+### 2. Modify application-db.yml (db setting) 
 
 ```yaml
 datasource: 
