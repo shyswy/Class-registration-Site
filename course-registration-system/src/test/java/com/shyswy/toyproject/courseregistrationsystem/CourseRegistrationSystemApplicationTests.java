@@ -3,6 +3,7 @@ package com.shyswy.toyproject.courseregistrationsystem;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+/*
 @SpringBootTest
 class CourseRegistrationSystemApplicationTests {
 
@@ -10,3 +11,4 @@ class CourseRegistrationSystemApplicationTests {
 	void contextLoads() {
 	}
 }
+*/

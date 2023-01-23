@@ -4,7 +4,7 @@ spring:
 
   datasource: #디폴트인 h2 는 별도 설정없어도 된다.
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://class-registration-db.cqd46odpq7sf.ap-northeast-2.rds.amazonaws.com:3307/registrationdb
+    url: jdbc:mysql://classdv.cqd46odpq7sf.ap-northeast-2.rds.amazonaws.com:3307/classdb
     username: shyswy
     password: melon1126
 
