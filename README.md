@@ -133,7 +133,7 @@ Login-success 상황의 handler 입니다.
 
 ![Untitled](README%202558392c608444f8997a00ded906f4ee/Untitled%205.png)
 
-\로그인 성공 시 로그인하며, 홈 화면으로 이동합니다.
+로그인 성공 시 로그인하며, 홈 화면으로 이동합니다.
 
 ![Untitled](README%202558392c608444f8997a00ded906f4ee/Untitled%206.png)
 
